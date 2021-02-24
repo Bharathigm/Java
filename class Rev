@@ -1,0 +1,12 @@
+class Rev
+{
+    Public static void main(String args[])
+    {
+        string s="asdfg";
+        int length;
+        while(s.charAt()!="null")
+        {
+            length++;
+        }
+    }
+}
